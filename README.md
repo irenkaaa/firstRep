@@ -1,5 +1,5 @@
 # firstRep
 GitHubLab
-irenka is trying to change.
 
-Resolved the conflict!
+
+Hi! Thats task3-Branches from github exercises 
