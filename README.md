@@ -1,5 +1,4 @@
 # firstRep
 GitHubLab
-irenka is trying to change.
 
-Resolved the conflict!
+Edited in the master branch!
